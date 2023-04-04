@@ -1,0 +1,23 @@
+1680429236a:1:{s:16:"menu-footer.yaml";a:7:{s:8:"fileName";s:16:"menu-footer.yaml";s:7:"content";s:470:"items:
+    -
+        title: 'О нас'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: about
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Главная
+        type: cms-page
+        code: ''
+        reference: home
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: 'Меню подвала'
+";s:5:"mtime";i:1676623486;s:6:"markup";N;s:4:"code";N;s:4:"name";N;s:5:"items";a:0:{}}}

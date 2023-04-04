@@ -1,0 +1,35 @@
+1680429236a:1:{s:15:"search-form.htm";a:6:{s:8:"fileName";s:15:"search-form.htm";s:7:"content";s:779:"[searchInput]
+useAutoComplete = 1
+autoCompleteResultCount = 5
+showProviderBadge = 1
+searchPage = "search-result.htm"
+==
+<div class="search-form">
+<form action="{{ searchInput.searchPage | page }}?q={{ query | url_encode(true) }}" method="get">
+    <div class="ss-search-form">
+        <div class="ss-search-form__input search-form__input">
+            <input name="q" type="text" placeholder="{{'Что Вы ищите'}}?"
+                   value="{{ searchInput.query }}"
+                   autocomplete="off"
+                   
+            >
+            <button class="ss-search-form__submit" type="submit">{{'Поиск'|_}}</button>
+        </div>
+        <div class="ss-search-form__results" id="autocomplete-results"></div> 
+    </div>
+</form>
+</div>";s:5:"mtime";i:1676623486;s:6:"markup";s:653:"<div class="search-form">
+<form action="{{ searchInput.searchPage | page }}?q={{ query | url_encode(true) }}" method="get">
+    <div class="ss-search-form">
+        <div class="ss-search-form__input search-form__input">
+            <input name="q" type="text" placeholder="{{'Что Вы ищите'}}?"
+                   value="{{ searchInput.query }}"
+                   autocomplete="off"
+                   
+            >
+            <button class="ss-search-form__submit" type="submit">{{'Поиск'|_}}</button>
+        </div>
+        <div class="ss-search-form__results" id="autocomplete-results"></div> 
+    </div>
+</form>
+</div>";s:4:"code";N;s:11:"searchInput";a:4:{s:15:"useAutoComplete";s:1:"1";s:23:"autoCompleteResultCount";s:1:"5";s:17:"showProviderBadge";s:1:"1";s:10:"searchPage";s:17:"search-result.htm";}}}

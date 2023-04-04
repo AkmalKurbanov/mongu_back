@@ -1,0 +1,17 @@
+items:
+    -
+        title: 'О нас'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: about
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+            locale:
+                en:
+                    title: 'Новый пункт'
+                    url: /
+name: 'Меню шапки'
