@@ -1,4 +1,4 @@
-1680429235a:1:{s:22:"site/booking-popup.htm";a:5:{s:8:"fileName";s:22:"site/booking-popup.htm";s:7:"content";s:2698:"<div class="booking-popup">
+1680689749a:1:{s:22:"site/booking-popup.htm";a:5:{s:8:"fileName";s:22:"site/booking-popup.htm";s:7:"content";s:2698:"<div class="booking-popup">
     <div class="booking-popup__window">
         <div class="booking-popup__window-close">&#x2715</div>
         <h2>{{'БРОНИРОВАНИЕ'|_}} </h2>

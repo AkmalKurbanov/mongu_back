@@ -1,4 +1,4 @@
-1680429236a:1:{s:13:"site/hero.htm";a:5:{s:8:"fileName";s:13:"site/hero.htm";s:7:"content";s:6485:"
+1680689750a:1:{s:13:"site/hero.htm";a:5:{s:8:"fileName";s:13:"site/hero.htm";s:7:"content";s:6485:"
 <div class="hero">
     <div class="hero-mobile-bg">
         <img src="{{ 'assets/images/hero-mobile-bg.webp'|theme }}"
